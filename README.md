@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Achmad Sholehudin</h1>
-<h3 align="center">DevOps & System Administrator</h3>
+<h1 align="center">Achmad Sholehudin</h1>
+<h3 align="center">99</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -8,9 +8,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="[https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="40" height="40"/>
-  </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
   </a>
